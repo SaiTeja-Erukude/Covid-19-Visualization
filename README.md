@@ -15,3 +15,5 @@ A Python library 'folium' is used to generate the world map.
 When hovered on the map, it displays the country/state name, number of confirmed, active, recovered cases and deaths. 
 
 There's a layer control button on the top right corner of the map. It can be used to switch between world wide and india wide covid data.
+
+Have a look at the visualization here : https://saiteja-erukude.github.io/Covid-Data-Visualaization/Covid.html
