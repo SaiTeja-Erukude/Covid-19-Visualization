@@ -15,4 +15,4 @@ When hovered on the map, it displays the country/state name, number of confirmed
 
 Using the layer control drop down button on the top right corner of the map, one can switch between the world wide, India wide data and different styles of map.
 
-Have a look at the visualization here : https://saiteja-erukude.github.io/Covid-Data-Visualaization/Covid.html
+Have a look at the visualization here : https://saiteja-erukude.github.io/Covid-19-Visualization/Covid.html
