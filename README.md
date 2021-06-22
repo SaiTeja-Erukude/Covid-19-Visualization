@@ -1,6 +1,6 @@
 ## Covid-19 Visualization
 
-This project visualizes the impact of covid-19 World wide and India wide as well.
+This project visualizes the impact of covid-19 globally and India wide as well.
 
 ## Files description:
 
