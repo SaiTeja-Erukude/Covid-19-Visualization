@@ -57,7 +57,7 @@ map.add_child(folium.LayerControl())
 
 # creating and adding a title to the map
 title_html = '''
-             <h6 align="center" style="font-size:15px"><b>Covid Data Visualization - Sai Teja Erukude</b></h6>
+             <h6 align="center" style="font-size:15px"><b>Covid-19 Visualization - Sai Teja Erukude</b></h6>
              '''
 map.get_root().html.add_child(folium.Element(title_html))
 
