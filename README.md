@@ -1,4 +1,4 @@
-# Covid-Data-Visualaization
+## Covid-19 Visualaization
 
 This project visualizes the impact of covid-19 World wide and India wide as well.
 
